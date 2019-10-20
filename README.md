@@ -1,2 +1,2 @@
-# JavaScript Project2
+# JavaScript, HTML, CSS - Rock Paper Scissors Game
  
